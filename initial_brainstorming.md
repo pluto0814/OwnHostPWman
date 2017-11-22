@@ -1,7 +1,7 @@
 ° benötigte Entwicklungssoftware:
   ===============================
   
-°
+[
  
   VS6, VS2015, Notepad++ //
   Ruby on Rails //
@@ -9,4 +9,4 @@
   div. debugging Addons (FF Quantum) //
   
   
-° 
+]
